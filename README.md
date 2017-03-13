@@ -3,7 +3,7 @@
 ## Usage
 
 ```sh
-git clone --depth=1 https://github.com/dawee/neutrino-nextcss-boilerplate.git <your-project>
+git clone --depth=1 https://github.com/dawee/neutrino-cssnext-boilerplate.git <your-project>
 cd <your-project>
 npm install
 npm start
