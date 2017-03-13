@@ -1,0 +1,29 @@
+{
+  "name": "neutrino-cssnext-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "config": {
+    "presets": [
+      "neutrino-preset-react",
+      "neutrino-preset-postcss"
+    ]
+  },
+  "scripts": {
+    "start": "neutrino start",
+    "build": "neutrino build",
+    "test": "neutrino test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "neutrino": "4.3.1",
+    "neutrino-preset-postcss": "1.0.0",
+    "neutrino-preset-react": "4.2.3",
+    "postcss-cssnext": "2.9.0"
+  },
+  "dependencies": {
+    "react": "15.4.2",
+    "react-dom": "15.4.2"
+  }
+}

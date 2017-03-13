@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+:root {
+  --light: white;
+  --readable: 'Roboto';
+  --dark: color(gray blackness(50%));
+  --big: 3em;
+  --enlight: color(rebeccapurple alpha(-10%));
+}
+
+body {
+  background-color: var(--light);
+}
+
+h1 {
+  color: var(--dark);
+  font-size: var(--big);
+  font-family: var(--readable);
+  margin-top: var(--big);
+  margin-left: var(--big);
+}
+
+h1 .go {
+  color: var(--enlight);
+}
