@@ -9,4 +9,4 @@ npm install
 npm start
 ```
 
-Then open **http://localhost:5000.**
+Then open **http://localhost:5000.** You should see this page : http://dawee.github.io/neutrino-cssnext-boilerplate
